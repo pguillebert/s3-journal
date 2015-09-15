@@ -25,22 +25,6 @@
      WeakReference]
     [java.lang.management
      ManagementFactory]
-    [com.amazonaws.services.s3.model
-     PartETag
-     S3ObjectSummary
-     PartSummary
-     ListObjectsRequest
-     ListPartsRequest
-     ListMultipartUploadsRequest
-     MultipartUpload
-     UploadPartRequest
-     InitiateMultipartUploadRequest
-     CompleteMultipartUploadRequest
-     AbortMultipartUploadRequest]
-    [com.amazonaws.auth
-     BasicAWSCredentials]
-    [com.amazonaws.services.s3
-     AmazonS3Client]
     [com.amazonaws
      AmazonServiceException]))
 
